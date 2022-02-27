@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Подготовка к устному собеседованию</string>
+    <string name="task1">Задание 1</string>
+    <string name="task2">Задание 2</string>
+    <string name="task3select">Выберите тему для задания 3</string>
+    <string name="task3_1">Описание картинки</string>
+    <string name="task3_2">Повествование на основе жизненного опыта</string>
+    <string name="task3_3">Рассуждение по поставленному вопросу</string>
+</resources>
